@@ -266,13 +266,14 @@
   font-size: 2.25rem;
   background-image: none;
   width: 46px;
+  font-weight: 300;
   margin: 0 auto;
 }
 
 .u-section-3 .u-text-3 {
   font-size: 1.25rem;
   font-style: italic;
-  margin: 20px 2px 0 0;
+  margin: 0 2px 0 0;
 }
 
 .u-section-3 .u-layout-cell-2 {
@@ -285,6 +286,7 @@
 
 .u-section-3 .u-text-4 {
   font-size: 1.875rem;
+  font-weight: 300;
   margin: 0;
 }
 
@@ -334,6 +336,7 @@
 
 .u-section-3 .u-text-8 {
   font-size: 2.25rem;
+  font-weight: 300;
   margin: 0 0 0 1px;
 }
 
@@ -398,20 +401,12 @@
     min-height: 278px;
   }
 
-  .u-section-3 .u-text-2 {
-    font-weight: 300;
-  }
-
   .u-section-3 .u-text-3 {
     margin-right: 0;
   }
 
   .u-section-3 .u-layout-cell-2 {
     min-height: 278px;
-  }
-
-  .u-section-3 .u-text-4 {
-    font-weight: 300;
   }
 
   .u-section-3 .u-text-5 {
@@ -439,7 +434,6 @@
   }
 
   .u-section-3 .u-text-8 {
-    font-weight: 300;
     margin-left: 0;
   }
 
