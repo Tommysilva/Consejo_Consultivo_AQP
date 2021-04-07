@@ -32661,32 +32661,26 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 241px;
+  min-height: 115px;
 }
 
 .u-header .u-image-1 {
-  width: 570px;
-  height: 121px;
-  margin: 20px auto 60px -62px;
+  width: 260px;
+  height: 55px;
+  margin: 20px auto 40px -48px;
 }
 @media (max-width: 1199px) {
-  .u-header .u-image-1 {
-    margin-left: -62px;
-  }
-}
-
-
-@media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 192px;
+    min-height: 115px;
   }
 
   .u-header .u-image-1 {
-    width: 340px;
-    height: 72px;
-    margin-left: 0;
+    margin-left: -48px;
   }
 }
+
+
+
 .u-footer {
   background-image: none;
 }
